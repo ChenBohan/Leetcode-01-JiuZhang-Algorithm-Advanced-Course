@@ -27,6 +27,6 @@
       - 时间复杂度O(nlogn + n)，空间复杂度O(1)，因为不需要用另一个数组保存下标。
  
 
-    
+  - [Triangle count](https://leetcode-cn.com/problems/valid-triangle-number/)
 
 
