@@ -3,7 +3,7 @@
 
 ## Chapter 1
 
-### 相会型指针题目
+### Two sum 及其 follow up question
 
 - [Two sum](https://leetcode.com/problems/two-sum/)
   - Solutions
@@ -48,7 +48,7 @@
   - 合并
   - 查找
   - 应用题目
-    - 集合合并
+    - 集合合并（连通分量的合并）
     - 判断是否在同一个集合中
   
 - 有向图/无向图
