@@ -3,7 +3,7 @@
 
 ## Chapter 1
 
-### Two sum and Two sum ii
+### 相会型指针题目
 
 - [Two sum](https://leetcode.com/problems/two-sum/)
   - Solutions
@@ -29,5 +29,17 @@
 
 - [Valid Triangle Number](https://leetcode-cn.com/problems/valid-triangle-number/)
   - 参考Two sum ii
+
+- 同类题目
+  - 3 Sum Closest 
+  - 4 Sum 
+  - 3 Sum
+  - Two sum II
+  - Triangle Count
+  - Trapping Rain Water
+  - Container With Most Water
+  
+- 解题思路
+  - 通过对撞型指针优化算法，根本上是要跳过不用扫描多余状态。
 
 
